@@ -1,0 +1,5724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>level4</class>
+ <widget class="QWidget" name="level4">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QWidget" name="widget" native="true">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>80</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_2" native="true">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>80</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_8" native="true">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>20</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_9" native="true">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>20</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_10" native="true">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_11" native="true">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>100</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_13" native="true">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>100</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_14" native="true">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>100</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_16" native="true">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>100</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_17" native="true">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>80</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_19" native="true">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>60</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_20" native="true">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>80</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_21" native="true">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>100</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+   <widget class="QWidget" name="widget_26" native="true">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>20</y>
+      <width>21</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QWidget" name="widget_22" native="true">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>20</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_23" native="true">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>140</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_24" native="true">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>200</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_25" native="true">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>120</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_29" native="true">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>140</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_30" native="true">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>220</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_32" native="true">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>220</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_33" native="true">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>200</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_34" native="true">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>180</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_35" native="true">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>140</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_36" native="true">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>200</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_37" native="true">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>200</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_38" native="true">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>220</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_39" native="true">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>240</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_41" native="true">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>240</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_42" native="true">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>280</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_43" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_44" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>560</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_46" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>540</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_47" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>460</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_48" native="true">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_49" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>440</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_50" native="true">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>340</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_52" native="true">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>260</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_53" native="true">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>320</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_54" native="true">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_55" native="true">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_56" native="true">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_57" native="true">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_58" native="true">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_59" native="true">
+   <property name="geometry">
+    <rect>
+     <x>280</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_60" native="true">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_61" native="true">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_62" native="true">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>520</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_63" native="true">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>520</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_64" native="true">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>500</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_65" native="true">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>500</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_66" native="true">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>520</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_67" native="true">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>480</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_69" native="true">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>520</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_70" native="true">
+   <property name="geometry">
+    <rect>
+     <x>780</x>
+     <y>520</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_71" native="true">
+   <property name="geometry">
+    <rect>
+     <x>780</x>
+     <y>480</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_72" native="true">
+   <property name="geometry">
+    <rect>
+     <x>781</x>
+     <y>420</y>
+     <width>20</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_73" native="true">
+   <property name="geometry">
+    <rect>
+     <x>780</x>
+     <y>460</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_74" native="true">
+   <property name="geometry">
+    <rect>
+     <x>780</x>
+     <y>440</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_75" native="true">
+   <property name="geometry">
+    <rect>
+     <x>780</x>
+     <y>540</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_76" native="true">
+   <property name="geometry">
+    <rect>
+     <x>760</x>
+     <y>460</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_77" native="true">
+   <property name="geometry">
+    <rect>
+     <x>500</x>
+     <y>400</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_78" native="true">
+   <property name="geometry">
+    <rect>
+     <x>440</x>
+     <y>420</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_79" native="true">
+   <property name="geometry">
+    <rect>
+     <x>600</x>
+     <y>520</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_80" native="true">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>440</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_81" native="true">
+   <property name="geometry">
+    <rect>
+     <x>500</x>
+     <y>440</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_82" native="true">
+   <property name="geometry">
+    <rect>
+     <x>700</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_86" native="true">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_85" native="true">
+   <property name="geometry">
+    <rect>
+     <x>780</x>
+     <y>500</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_88" native="true">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>500</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_90" native="true">
+   <property name="geometry">
+    <rect>
+     <x>700</x>
+     <y>520</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_92" native="true">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>520</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_93" native="true">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>480</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_95" native="true">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_96" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>420</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_97" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>400</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_98" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>360</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_99" native="true">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_100" native="true">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_101" native="true">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_102" native="true">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_103" native="true">
+   <property name="geometry">
+    <rect>
+     <x>300</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_104" native="true">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_105" native="true">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_106" native="true">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>480</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_107" native="true">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>500</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_108" native="true">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>500</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_109" native="true">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>480</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_110" native="true">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_111" native="true">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_112" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>480</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_114" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>380</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_115" native="true">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_119" native="true">
+   <property name="geometry">
+    <rect>
+     <x>260</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_121" native="true">
+   <property name="geometry">
+    <rect>
+     <x>640</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_122" native="true">
+   <property name="geometry">
+    <rect>
+     <x>600</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_123" native="true">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_124" native="true">
+   <property name="geometry">
+    <rect>
+     <x>660</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_125" native="true">
+   <property name="geometry">
+    <rect>
+     <x>580</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_126" native="true">
+   <property name="geometry">
+    <rect>
+     <x>720</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_127" native="true">
+   <property name="geometry">
+    <rect>
+     <x>780</x>
+     <y>280</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_128" native="true">
+   <property name="geometry">
+    <rect>
+     <x>780</x>
+     <y>300</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_129" native="true">
+   <property name="geometry">
+    <rect>
+     <x>780</x>
+     <y>380</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_130" native="true">
+   <property name="geometry">
+    <rect>
+     <x>780</x>
+     <y>400</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_131" native="true">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>580</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_132" native="true">
+   <property name="geometry">
+    <rect>
+     <x>780</x>
+     <y>320</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_133" native="true">
+   <property name="geometry">
+    <rect>
+     <x>780</x>
+     <y>340</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_134" native="true">
+   <property name="geometry">
+    <rect>
+     <x>540</x>
+     <y>580</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_135" native="true">
+   <property name="geometry">
+    <rect>
+     <x>500</x>
+     <y>580</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_136" native="true">
+   <property name="geometry">
+    <rect>
+     <x>480</x>
+     <y>580</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_137" native="true">
+   <property name="geometry">
+    <rect>
+     <x>460</x>
+     <y>580</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_138" native="true">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>580</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_139" native="true">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>520</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_140" native="true">
+   <property name="geometry">
+    <rect>
+     <x>660</x>
+     <y>520</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_141" native="true">
+   <property name="geometry">
+    <rect>
+     <x>600</x>
+     <y>500</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_142" native="true">
+   <property name="geometry">
+    <rect>
+     <x>640</x>
+     <y>520</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_143" native="true">
+   <property name="geometry">
+    <rect>
+     <x>540</x>
+     <y>440</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+   <widget class="QWidget" name="widget_207" native="true">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>0</y>
+      <width>21</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QWidget" name="widget_144" native="true">
+   <property name="geometry">
+    <rect>
+     <x>580</x>
+     <y>500</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_145" native="true">
+   <property name="geometry">
+    <rect>
+     <x>440</x>
+     <y>580</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_149" native="true">
+   <property name="geometry">
+    <rect>
+     <x>780</x>
+     <y>260</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_150" native="true">
+   <property name="geometry">
+    <rect>
+     <x>780</x>
+     <y>360</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_151" native="true">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>400</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_152" native="true">
+   <property name="geometry">
+    <rect>
+     <x>540</x>
+     <y>500</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_153" native="true">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>560</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_154" native="true">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>540</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_155" native="true">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>520</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_156" native="true">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>500</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_157" native="true">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>540</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_158" native="true">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>520</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_160" native="true">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>520</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_161" native="true">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>520</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_162" native="true">
+   <property name="geometry">
+    <rect>
+     <x>440</x>
+     <y>520</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_163" native="true">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>520</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_164" native="true">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>520</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_165" native="true">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>540</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_166" native="true">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>560</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_167" native="true">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>520</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_168" native="true">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>400</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_169" native="true">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>560</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_170" native="true">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>500</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_171" native="true">
+   <property name="geometry">
+    <rect>
+     <x>440</x>
+     <y>460</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_172" native="true">
+   <property name="geometry">
+    <rect>
+     <x>440</x>
+     <y>500</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_173" native="true">
+   <property name="geometry">
+    <rect>
+     <x>440</x>
+     <y>480</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_174" native="true">
+   <property name="geometry">
+    <rect>
+     <x>440</x>
+     <y>440</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_182" native="true">
+   <property name="geometry">
+    <rect>
+     <x>720</x>
+     <y>300</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_183" native="true">
+   <property name="geometry">
+    <rect>
+     <x>600</x>
+     <y>260</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_184" native="true">
+   <property name="geometry">
+    <rect>
+     <x>440</x>
+     <y>240</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_185" native="true">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>220</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_186" native="true">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>180</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_188" native="true">
+   <property name="geometry">
+    <rect>
+     <x>760</x>
+     <y>180</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_187" native="true">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>400</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_191" native="true">
+   <property name="geometry">
+    <rect>
+     <x>740</x>
+     <y>180</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_192" native="true">
+   <property name="geometry">
+    <rect>
+     <x>720</x>
+     <y>180</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_193" native="true">
+   <property name="geometry">
+    <rect>
+     <x>700</x>
+     <y>180</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_194" native="true">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>240</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_195" native="true">
+   <property name="geometry">
+    <rect>
+     <x>700</x>
+     <y>200</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_196" native="true">
+   <property name="geometry">
+    <rect>
+     <x>720</x>
+     <y>200</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_197" native="true">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>240</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_198" native="true">
+   <property name="geometry">
+    <rect>
+     <x>700</x>
+     <y>240</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_199" native="true">
+   <property name="geometry">
+    <rect>
+     <x>740</x>
+     <y>220</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_200" native="true">
+   <property name="geometry">
+    <rect>
+     <x>700</x>
+     <y>220</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_201" native="true">
+   <property name="geometry">
+    <rect>
+     <x>720</x>
+     <y>220</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_202" native="true">
+   <property name="geometry">
+    <rect>
+     <x>760</x>
+     <y>220</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_203" native="true">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>240</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_204" native="true">
+   <property name="geometry">
+    <rect>
+     <x>720</x>
+     <y>240</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_205" native="true">
+   <property name="geometry">
+    <rect>
+     <x>760</x>
+     <y>240</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_206" native="true">
+   <property name="geometry">
+    <rect>
+     <x>740</x>
+     <y>240</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_208" native="true">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>40</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_209" native="true">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>40</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_211" native="true">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>20</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_212" native="true">
+   <property name="geometry">
+    <rect>
+     <x>300</x>
+     <y>20</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_213" native="true">
+   <property name="geometry">
+    <rect>
+     <x>280</x>
+     <y>20</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_214" native="true">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>20</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_215" native="true">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>20</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_216" native="true">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>20</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_217" native="true">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>20</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_218" native="true">
+   <property name="geometry">
+    <rect>
+     <x>440</x>
+     <y>20</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_219" native="true">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>20</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_220" native="true">
+   <property name="geometry">
+    <rect>
+     <x>460</x>
+     <y>20</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_221" native="true">
+   <property name="geometry">
+    <rect>
+     <x>480</x>
+     <y>20</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_223" native="true">
+   <property name="geometry">
+    <rect>
+     <x>300</x>
+     <y>40</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_224" native="true">
+   <property name="geometry">
+    <rect>
+     <x>460</x>
+     <y>40</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_225" native="true">
+   <property name="geometry">
+    <rect>
+     <x>720</x>
+     <y>320</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_227" native="true">
+   <property name="geometry">
+    <rect>
+     <x>480</x>
+     <y>40</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_229" native="true">
+   <property name="geometry">
+    <rect>
+     <x>440</x>
+     <y>40</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_230" native="true">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>320</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_231" native="true">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>340</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_233" native="true">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>260</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_234" native="true">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>220</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_236" native="true">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>40</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_237" native="true">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>40</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_240" native="true">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>40</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_241" native="true">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>40</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_242" native="true">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>520</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_243" native="true">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>40</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_246" native="true">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>240</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_248" native="true">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>60</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_249" native="true">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>20</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_250" native="true">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>500</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_251" native="true">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>140</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_252" native="true">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>160</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_253" native="true">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>120</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_261" native="true">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>180</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_263" native="true">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>180</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_264" native="true">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>200</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_265" native="true">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>200</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_266" native="true">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>200</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_267" native="true">
+   <property name="geometry">
+    <rect>
+     <x>540</x>
+     <y>200</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_269" native="true">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>200</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_270" native="true">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>140</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_272" native="true">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>340</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_273" native="true">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>220</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_274" native="true">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>240</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_275" native="true">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>260</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_276" native="true">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>340</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_277" native="true">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>340</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_278" native="true">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>340</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_279" native="true">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>280</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_280" native="true">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>320</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_281" native="true">
+   <property name="geometry">
+    <rect>
+     <x>280</x>
+     <y>320</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_282" native="true">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>320</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_283" native="true">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>320</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_284" native="true">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>320</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_285" native="true">
+   <property name="geometry">
+    <rect>
+     <x>500</x>
+     <y>320</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_286" native="true">
+   <property name="geometry">
+    <rect>
+     <x>460</x>
+     <y>320</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_287" native="true">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>340</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_288" native="true">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>300</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_289" native="true">
+   <property name="geometry">
+    <rect>
+     <x>440</x>
+     <y>320</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_290" native="true">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>400</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_291" native="true">
+   <property name="geometry">
+    <rect>
+     <x>300</x>
+     <y>320</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_292" native="true">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>320</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_293" native="true">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>320</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_294" native="true">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>320</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_295" native="true">
+   <property name="geometry">
+    <rect>
+     <x>480</x>
+     <y>320</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_296" native="true">
+   <property name="geometry">
+    <rect>
+     <x>500</x>
+     <y>420</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_297" native="true">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>380</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_298" native="true">
+   <property name="geometry">
+    <rect>
+     <x>480</x>
+     <y>340</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_299" native="true">
+   <property name="geometry">
+    <rect>
+     <x>480</x>
+     <y>360</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_300" native="true">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>340</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_301" native="true">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>360</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_302" native="true">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>360</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_303" native="true">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>340</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_304" native="true">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>360</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_305" native="true">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>340</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_306" native="true">
+   <property name="geometry">
+    <rect>
+     <x>440</x>
+     <y>340</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_307" native="true">
+   <property name="geometry">
+    <rect>
+     <x>440</x>
+     <y>360</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_308" native="true">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>0</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_309" native="true">
+   <property name="geometry">
+    <rect>
+     <x>760</x>
+     <y>160</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_310" native="true">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>0</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_317" native="true">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>240</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_319" native="true">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>520</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_321" native="true">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>200</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_325" native="true">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>120</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_327" native="true">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>140</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_328" native="true">
+   <property name="geometry">
+    <rect>
+     <x>300</x>
+     <y>140</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_331" native="true">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>160</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_333" native="true">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>180</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_335" native="true">
+   <property name="geometry">
+    <rect>
+     <x>300</x>
+     <y>160</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_338" native="true">
+   <property name="geometry">
+    <rect>
+     <x>300</x>
+     <y>180</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_339" native="true">
+   <property name="geometry">
+    <rect>
+     <x>720</x>
+     <y>400</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_340" native="true">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>380</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_341" native="true">
+   <property name="geometry">
+    <rect>
+     <x>600</x>
+     <y>340</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_346" native="true">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>100</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_347" native="true">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>120</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_348" native="true">
+   <property name="geometry">
+    <rect>
+     <x>540</x>
+     <y>180</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_349" native="true">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>140</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_350" native="true">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>160</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_351" native="true">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>180</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_352" native="true">
+   <property name="geometry">
+    <rect>
+     <x>500</x>
+     <y>100</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_353" native="true">
+   <property name="geometry">
+    <rect>
+     <x>500</x>
+     <y>120</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_354" native="true">
+   <property name="geometry">
+    <rect>
+     <x>500</x>
+     <y>140</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_355" native="true">
+   <property name="geometry">
+    <rect>
+     <x>580</x>
+     <y>260</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_356" native="true">
+   <property name="geometry">
+    <rect>
+     <x>480</x>
+     <y>120</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_357" native="true">
+   <property name="geometry">
+    <rect>
+     <x>480</x>
+     <y>140</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_358" native="true">
+   <property name="geometry">
+    <rect>
+     <x>500</x>
+     <y>160</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_359" native="true">
+   <property name="geometry">
+    <rect>
+     <x>480</x>
+     <y>160</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_361" native="true">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>260</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_365" native="true">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>100</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_366" native="true">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>160</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_367" native="true">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>180</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_368" native="true">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>160</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_369" native="true">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>180</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_370" native="true">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>160</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_371" native="true">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>180</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_372" native="true">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>160</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_373" native="true">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>180</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_374" native="true">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>160</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_375" native="true">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>180</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_376" native="true">
+   <property name="geometry">
+    <rect>
+     <x>500</x>
+     <y>180</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_378" native="true">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>160</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_379" native="true">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>180</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_380" native="true">
+   <property name="geometry">
+    <rect>
+     <x>720</x>
+     <y>340</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_384" native="true">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>360</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_385" native="true">
+   <property name="geometry">
+    <rect>
+     <x>700</x>
+     <y>400</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_386" native="true">
+   <property name="geometry">
+    <rect>
+     <x>480</x>
+     <y>180</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_387" native="true">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>140</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_388" native="true">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>120</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_389" native="true">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>100</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_393" native="true">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>100</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_396" native="true">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>100</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_397" native="true">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>140</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_398" native="true">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>140</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_399" native="true">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>120</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_400" native="true">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>140</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_401" native="true">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>120</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_402" native="true">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>120</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_403" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>80</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_404" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>60</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+   <widget class="QWidget" name="gridLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>160</width>
+      <height>80</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="gridLayout"/>
+   </widget>
+  </widget>
+  <widget class="QWidget" name="widget_405" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>120</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_406" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>100</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_407" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>140</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_232" native="true">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>300</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_408" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>160</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_409" native="true">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>0</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_411" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>180</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_412" native="true">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>300</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_413" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>200</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_414" native="true">
+   <property name="geometry">
+    <rect>
+     <x>780</x>
+     <y>240</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_415" native="true">
+   <property name="geometry">
+    <rect>
+     <x>780</x>
+     <y>200</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_416" native="true">
+   <property name="geometry">
+    <rect>
+     <x>780</x>
+     <y>220</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_417" native="true">
+   <property name="geometry">
+    <rect>
+     <x>780</x>
+     <y>180</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_419" native="true">
+   <property name="geometry">
+    <rect>
+     <x>780</x>
+     <y>160</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_425" native="true">
+   <property name="geometry">
+    <rect>
+     <x>540</x>
+     <y>60</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_426" native="true">
+   <property name="geometry">
+    <rect>
+     <x>740</x>
+     <y>160</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_427" native="true">
+   <property name="geometry">
+    <rect>
+     <x>720</x>
+     <y>160</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_428" native="true">
+   <property name="geometry">
+    <rect>
+     <x>700</x>
+     <y>160</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_430" native="true">
+   <property name="geometry">
+    <rect>
+     <x>500</x>
+     <y>0</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_431" native="true">
+   <property name="geometry">
+    <rect>
+     <x>540</x>
+     <y>20</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_432" native="true">
+   <property name="geometry">
+    <rect>
+     <x>540</x>
+     <y>0</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_433" native="true">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>0</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_434" native="true">
+   <property name="geometry">
+    <rect>
+     <x>540</x>
+     <y>40</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_435" native="true">
+   <property name="geometry">
+    <rect>
+     <x>480</x>
+     <y>0</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_436" native="true">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>0</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_437" native="true">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>0</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_438" native="true">
+   <property name="geometry">
+    <rect>
+     <x>460</x>
+     <y>0</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_439" native="true">
+   <property name="geometry">
+    <rect>
+     <x>440</x>
+     <y>0</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_440" native="true">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>0</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_441" native="true">
+   <property name="geometry">
+    <rect>
+     <x>300</x>
+     <y>0</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_442" native="true">
+   <property name="geometry">
+    <rect>
+     <x>280</x>
+     <y>0</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_443" native="true">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>0</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_444" native="true">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>0</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_445" native="true">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>0</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_446" native="true">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>0</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_447" native="true">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>0</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_448" native="true">
+   <property name="geometry">
+    <rect>
+     <x>260</x>
+     <y>0</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_449" native="true">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>0</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_450" native="true">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>0</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_451" native="true">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>0</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_452" native="true">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>0</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_453" native="true">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>0</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_454" native="true">
+   <property name="geometry">
+    <rect>
+     <x>41</x>
+     <y>0</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_455" native="true">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>0</y>
+     <width>21</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_456" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>220</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_457" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>260</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_458" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>240</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_459" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>280</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_460" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>320</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_461" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>300</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_462" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>340</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_410" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>520</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_463" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>500</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_464" native="true">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>400</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_45" native="true">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>400</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_83" native="true">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>340</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_84" native="true">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>340</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_113" native="true">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>420</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_465" native="true">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>520</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_117" native="true">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>540</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_118" native="true">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>540</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_120" native="true">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>560</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_146" native="true">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>560</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_147" native="true">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>320</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_148" native="true">
+   <property name="geometry">
+    <rect>
+     <x>260</x>
+     <y>320</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_466" native="true">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>340</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_467" native="true">
+   <property name="geometry">
+    <rect>
+     <x>260</x>
+     <y>260</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_468" native="true">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>260</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_469" native="true">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>240</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_470" native="true">
+   <property name="geometry">
+    <rect>
+     <x>500</x>
+     <y>380</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_471" native="true">
+   <property name="geometry">
+    <rect>
+     <x>480</x>
+     <y>270</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_472" native="true">
+   <property name="geometry">
+    <rect>
+     <x>500</x>
+     <y>270</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_322" native="true">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>440</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_473" native="true">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>440</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_474" native="true">
+   <property name="geometry">
+    <rect>
+     <x>580</x>
+     <y>440</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_475" native="true">
+   <property name="geometry">
+    <rect>
+     <x>600</x>
+     <y>440</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_476" native="true">
+   <property name="geometry">
+    <rect>
+     <x>740</x>
+     <y>460</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_477" native="true">
+   <property name="geometry">
+    <rect>
+     <x>760</x>
+     <y>420</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_478" native="true">
+   <property name="geometry">
+    <rect>
+     <x>740</x>
+     <y>440</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_479" native="true">
+   <property name="geometry">
+    <rect>
+     <x>760</x>
+     <y>400</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_480" native="true">
+   <property name="geometry">
+    <rect>
+     <x>760</x>
+     <y>440</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_481" native="true">
+   <property name="geometry">
+    <rect>
+     <x>740</x>
+     <y>420</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_482" native="true">
+   <property name="geometry">
+    <rect>
+     <x>740</x>
+     <y>400</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_483" native="true">
+   <property name="geometry">
+    <rect>
+     <x>580</x>
+     <y>280</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_484" native="true">
+   <property name="geometry">
+    <rect>
+     <x>600</x>
+     <y>320</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_485" native="true">
+   <property name="geometry">
+    <rect>
+     <x>600</x>
+     <y>280</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_486" native="true">
+   <property name="geometry">
+    <rect>
+     <x>580</x>
+     <y>340</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_487" native="true">
+   <property name="geometry">
+    <rect>
+     <x>600</x>
+     <y>300</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_488" native="true">
+   <property name="geometry">
+    <rect>
+     <x>580</x>
+     <y>320</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_489" native="true">
+   <property name="geometry">
+    <rect>
+     <x>580</x>
+     <y>300</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_490" native="true">
+   <property name="geometry">
+    <rect>
+     <x>580</x>
+     <y>360</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_491" native="true">
+   <property name="geometry">
+    <rect>
+     <x>600</x>
+     <y>360</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_494" native="true">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>460</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_495" native="true">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>440</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_496" native="true">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>400</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_497" native="true">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>420</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_498" native="true">
+   <property name="geometry">
+    <rect>
+     <x>280</x>
+     <y>440</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_499" native="true">
+   <property name="geometry">
+    <rect>
+     <x>260</x>
+     <y>440</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_500" native="true">
+   <property name="geometry">
+    <rect>
+     <x>300</x>
+     <y>440</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_501" native="true">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>440</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_502" native="true">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>440</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_503" native="true">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>440</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_504" native="true">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>440</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_505" native="true">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>440</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_506" native="true">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>480</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_507" native="true">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>500</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_508" native="true">
+   <property name="geometry">
+    <rect>
+     <x>300</x>
+     <y>560</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_509" native="true">
+   <property name="geometry">
+    <rect>
+     <x>280</x>
+     <y>560</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_510" native="true">
+   <property name="geometry">
+    <rect>
+     <x>260</x>
+     <y>560</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_511" native="true">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>560</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_395" native="true">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>180</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_512" native="true">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>200</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_513" native="true">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>260</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_514" native="true">
+   <property name="geometry">
+    <rect>
+     <x>640</x>
+     <y>260</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/block.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_316" native="true">
+   <property name="geometry">
+    <rect>
+     <x>660</x>
+     <y>160</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_492" native="true">
+   <property name="geometry">
+    <rect>
+     <x>600</x>
+     <y>160</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_493" native="true">
+   <property name="geometry">
+    <rect>
+     <x>640</x>
+     <y>160</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_515" native="true">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>160</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_516" native="true">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>160</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_517" native="true">
+   <property name="geometry">
+    <rect>
+     <x>540</x>
+     <y>80</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_518" native="true">
+   <property name="geometry">
+    <rect>
+     <x>540</x>
+     <y>140</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_519" native="true">
+   <property name="geometry">
+    <rect>
+     <x>540</x>
+     <y>100</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_520" native="true">
+   <property name="geometry">
+    <rect>
+     <x>540</x>
+     <y>120</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_318" native="true">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>160</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_320" native="true">
+   <property name="geometry">
+    <rect>
+     <x>580</x>
+     <y>160</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_521" native="true">
+   <property name="geometry">
+    <rect>
+     <x>540</x>
+     <y>160</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_312" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>20</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_87" native="true">
+   <property name="geometry">
+    <rect>
+     <x>780</x>
+     <y>560</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_89" native="true">
+   <property name="geometry">
+    <rect>
+     <x>780</x>
+     <y>580</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/final picture/stone.jpg);</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

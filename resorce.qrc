@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/block.jpg</file>
+        <file>Image/block.png</file>
+        <file>Image/blue.png</file>
+        <file>Image/green.png</file>
+        <file>Image/levelbgblack.jpg</file>
+        <file>Image/mandown.png</file>
+        <file>Image/manleft.png</file>
+        <file>Image/manright.png</file>
+        <file>Image/manup.png</file>
+        <file>Image/menubg.jpg</file>
+        <file>Image/orange.png</file>
+        <file>Image/pink.png</file>
+        <file>Image/purple.png</file>
+        <file>Image/red.png</file>
+        <file>Image/wall.jpg</file>
+        <file>Image/yellow.png</file>
+        <file>Image/info.png</file>
+        <file>final picture/block.jpg</file>
+        <file>final picture/stone.jpg</file>
+        <file>Image/coins1-1.png</file>
+        <file>Image/coins1-2.png</file>
+        <file>Image/coins1-3.png</file>
+        <file>Image/coins1-4.png</file>
+        <file>Image/coins1-5.png</file>
+        <file>Image/coins1-6.png</file>
+        <file>Image/coins1-7.png</file>
+    </qresource>
+</RCC>
